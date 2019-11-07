@@ -15,11 +15,12 @@ setup(
     author='Maxime Petazzoni',
     author_email='maxime.petazzoni@bulix.org',
     description='SSE client for Python',
-    license='Apache Software License v2',
+    license='Apache 2.0',
     long_description=long_description,
     zip_safe=True,
     packages=find_packages(),
     classifiers=[
+        'License :: OSI Approved :: Apache Software License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
